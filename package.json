@@ -1,5 +1,5 @@
 {
-  "name": "requirejs-babel",
+  "name": "requirejs-babel6",
   "version": "0.0.10",
   "description": "An AMD loader plugin for Babel",
   "repository": {
