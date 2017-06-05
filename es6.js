@@ -41,7 +41,7 @@ define([
             //>>excludeStart('excludeBabel', pragmas.excludeBabel)
             function applyOptions(options) {
                 var defaults = {
-                    modules: 'amd',
+                    plugins: ["transform-es2015-modules-amd"],
                     sourceMap: config.isBuild ? false :'inline',
                     sourceFileName: name + '.js'
                 };
