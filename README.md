@@ -2,13 +2,13 @@ Babel (6to5) Plugin
 ===
 
 A [Babel](https://babeljs.io/) loader plugin for [RequireJS](http://requirejs.org).
+Includes Babel 6.24.2.
 
 Installation
 ---
 
 ```
-  $ npm install -g bower
-  $ bower install requirejs-babel
+  $ npm install requirejs-babel
 ```
 
 Usage
@@ -19,7 +19,7 @@ Add the paths to configuration:
 ```javascript
   paths: {
     es6: '...path_to_bower/requirejs-babel/es6',
-    babel: '...path_to_bower/requirejs-babel/babel-5.8.22.min'
+    babel: '...path_to_bower/requirejs-babel/babel.min'
   }
 ```
 
