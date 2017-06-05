@@ -1,10 +1,10 @@
 {
   "name": "requirejs-babel",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "An AMD loader plugin for Babel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikach/requirejs-babel"
+    "url": "https://github.com/jessewmc/requirejs-babel"
   },
   "main": "index.js",
   "scripts": {
