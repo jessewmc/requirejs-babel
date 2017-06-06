@@ -42,6 +42,7 @@ define([
             function applyOptions(options) {
                 var defaults = {
                     plugins: ["transform-es2015-modules-amd"],
+                    presets: ["es2015"],
                     sourceMap: config.isBuild ? false :'inline',
                     sourceFileName: name + '.js'
                 };
